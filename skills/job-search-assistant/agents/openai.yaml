@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Job Search Assistant"
+  short_description: "Review jobs and prepare applications"
+  default_prompt: "Use $job-search-assistant to review this JD and suggest my next action."
